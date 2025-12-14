@@ -1,0 +1,11 @@
+TTS Model Evaluation Summary
+==================================================
+
+Evaluation Date: 2025-10-26 22:16:48
+Total Samples: 8
+
+Key Metrics:
+- Average Cosine Similarity: 0.0039
+- Average MFCC Similarity: 0.9891
+- Average PESQ Score: 1.0821
+- Average Duration Difference: 0.30s

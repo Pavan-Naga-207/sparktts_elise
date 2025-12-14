@@ -1,0 +1,15 @@
+# Large files/folders
+output_prompt/LJSpeech-1.1.jsonl
+spark_elise/
+.venv/
+venv/
+
+# Python
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+
+# Generated audio
+*.wav
